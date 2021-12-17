@@ -1,0 +1,25 @@
+.btn {
+    background-color: #be1e2d !important;
+    color: #fff !important;
+    width: 100% !important;
+    margin-top: 10px;
+}
+
+.card {
+    position: relative !important;
+}
+
+.sale_box {
+    height: 30px;
+    width: 30px;
+    background-color: #be1e2d;
+    border-radius: 15px;
+    font-size: 12px;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    top: 5px;
+    right: 10px;
+}

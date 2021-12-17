@@ -1,0 +1,10 @@
+.products {
+    padding: 20px;
+}
+
+.border_line {
+    height: 2px;
+    width: 150px;
+    background-color: #be1e2d;
+    margin-bottom: 20px;
+}
